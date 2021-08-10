@@ -1,0 +1,4 @@
+/home/lijinjiang/pbrt/pbrt_zero/build/CMakeFiles/rebuild_cache.dir
+/home/lijinjiang/pbrt/pbrt_zero/build/CMakeFiles/edit_cache.dir
+/home/lijinjiang/pbrt/pbrt_zero/build/CMakeFiles/pbrt.dir
+/home/lijinjiang/pbrt/pbrt_zero/build/CMakeFiles/pbre_exe.dir

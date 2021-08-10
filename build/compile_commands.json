@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lijinjiang/pbrt/pbrt_zero/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/home/lijinjiang/pbrt/pbrt_zero/src -I/home/lijinjiang/pbrt/pbrt_zero/src/core -g -o CMakeFiles/pbrt.dir/src/core/geometry.cpp.o -c /home/lijinjiang/pbrt/pbrt_zero/src/core/geometry.cpp",
+  "file": "/home/lijinjiang/pbrt/pbrt_zero/src/core/geometry.cpp"
+},
+{
+  "directory": "/home/lijinjiang/pbrt/pbrt_zero/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/home/lijinjiang/pbrt/pbrt_zero/src -I/home/lijinjiang/pbrt/pbrt_zero/src/core -g -o CMakeFiles/pbre_exe.dir/src/main/pbrt.cpp.o -c /home/lijinjiang/pbrt/pbrt_zero/src/main/pbrt.cpp",
+  "file": "/home/lijinjiang/pbrt/pbrt_zero/src/main/pbrt.cpp"
+}
+]
